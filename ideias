@@ -1,0 +1,19 @@
+Ideia do projeto: Roguelike + RPG de turnos.
+
+Ideias soltas:
+* Efeitos sonoros nas funções.
+* Arquivo com todos os itens.
+* Atributos: HP; Sp.Atk; Atk; Def; Spc.Def; Speed.
+* Classes a ver... ( depende da temática do jogo).
+* Criar salas padronizadas com algumas escolhas ( abrir baús, portas, etc).
+* Criar níveis de dificuldade para cada sala. (determina nível de inimigos, raridade de itens, etc)
+* Elaborar mapas gerados aleatoriamente se baseando nos níveis das salas.
+* Criar interface? Ou ASCII para cada item.
+
+Possíveis partições de trabalho:
+* Sistema de combate.
+* Criar os itens.
+* Criar inimigos.
+* Criar as classes base. (Player, Inimigos, Itens, Salas)
+* Fazer os efeitos sonoros, música.
+* Criar as ações, ataques.
